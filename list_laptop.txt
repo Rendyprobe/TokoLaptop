@@ -1,0 +1,20 @@
+Laptop;HP Pavilion x360;Intel Core i3-1215U;8;256
+Gaming;MSI Raider GE78HX;Intel Core i9-13980HX;32;2000;RTX 4090
+Laptop;Samsung Galaxy Book 3;Intel Core i7-1355U;16;1000
+Gaming;Gigabyte AORUS 17G;Intel Core i9-12900HK;32;1000;RTX 3080
+Laptop;Asus Zenbook 14;AMD Ryzen 7 7730U;16;1000
+Gaming;Lenovo Legion 5 Pro;AMD Ryzen 7 5800H;16;1000;RTX 3060
+Laptop;Dell Inspiron 14;Intel Core i5-1135G7;8;512
+Gaming;Asus ROG Zephyrus G14;AMD Ryzen 9 7940HS;16;1000;RTX 4070
+Laptop;Microsoft Surface Laptop 4;Intel Core i5-1145G7;16;512
+Laptop;HP Envy 13;Intel Core i5-1235U;8;512
+Gaming;Acer Predator Helios 300;Intel Core i7-12700H;16;1000;RTX 3070
+Laptop;Acer Aspire 5;AMD Ryzen 3 5300U;8;256
+Gaming;Samsung Galaxy Book 2;Intel Core i5-1240P;12;512;RTX 4080
+Laptop;Asus VivoBook 15;Intel Core i5-11300H;8;512
+Laptop;Lenovo IdeaPad Slim 3;AMD Ryzen 5 7520U;16;512
+Gaming;Razer Blade 15;Intel Core i7-12800H;16;1000;RTX 3080 Ti
+Laptop;LG Gram 16;Intel Core i7-1260P;16;512
+Gaming;HP Victus 16;AMD Ryzen 5 7640HS;16;512;RTX 4060
+Laptop;Huawei MateBook D14;Intel Core i5-1155G7;8;512
+Gaming;Acer Nitro 5;AMD Ryzen 7 6800H;16;1000;RTX 3070
