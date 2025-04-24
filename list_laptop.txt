@@ -18,3 +18,4 @@ Laptop;LG Gram 16;Intel Core i7-1260P;16;512
 Gaming;HP Victus 16;AMD Ryzen 5 7640HS;16;512;RTX 4060
 Laptop;Huawei MateBook D14;Intel Core i5-1155G7;8;512
 Gaming;Acer Nitro 5;AMD Ryzen 7 6800H;16;1000;RTX 3070
+Gaming;Acer Nitro V15;Intel Core i7-13620H;32;512;RTX 2050
