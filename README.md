@@ -1,3 +1,4 @@
+## Welcome to Laptop Store
 <<<<<<< HEAD
 ## Getting Started
 
